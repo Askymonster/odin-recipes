@@ -1,2 +1,3 @@
 # odin-recipes
-HTML Project for The Odin Project
+HTML only (for now) recipes project for The Odin Project
+
